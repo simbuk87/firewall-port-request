@@ -68,10 +68,3 @@ This tool is intended for educational, visualization, and personal documentation
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
----
-
-Let me know:
-
-* If you'd like a matching `LICENSE` file generated with your name.
-* If you want help creating a screenshot or GIF preview for the README.
