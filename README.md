@@ -53,7 +53,11 @@ You can now:
 
 ### 📸 Preview
 
-*(You can add a screenshot or GIF of the app here)*
+
+![Screenshot 2025-06-20 005000](https://github.com/user-attachments/assets/4d130d1d-0b6c-428a-9c11-79a990be875e)
+
+
+![image](https://github.com/user-attachments/assets/99d0e85b-b256-4ef5-974e-619152bef17b)
 
 ---
 
